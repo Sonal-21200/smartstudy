@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "smartstudy",
+			"path": "."
+		},
+		{
+			"path": "../../../../../../xampp/htdocs/Login-registration-System-PHP-and-MYSQL-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "smartstudy"
+	}
+}
