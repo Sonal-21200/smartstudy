@@ -1,2 +1,2 @@
 # smartstudy
-A website for smart study
+A website for study material download .
